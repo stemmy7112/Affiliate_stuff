@@ -1,0 +1,12 @@
+{
+  "name": "affiliate-transport-site-generator",
+  "version": "1.0.0",
+  "description": "Script to generate affiliate transport guide pages for multiple islands.",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate.js"
+  },
+  "dependencies": {},
+  "author": "",
+  "license": "MIT"
+}
